@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.pagehelper</groupId>
+  <artifactId>pagemergehelper</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>pagemergerhelper</name>
+  <description>merge 2 api's page together</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.github.pagehelper</groupId>
+  		<artifactId>pagehelper</artifactId>
+  		<version>5.2.1</version>	<!-- it can be  any pagehelper version -->
+  	</dependency>
+  </dependencies>
+</project>
